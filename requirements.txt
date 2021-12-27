@@ -1,0 +1,18 @@
+# ASGI
+fastapi==0.74.1
+uvicorn==0.17.5
+
+# Log library
+loguru==0.5.3
+
+# dependency-injector==4.38.0
+
+# Backend
+elasticsearch==7.16.1
+aiohttp==3.8.1
+
+# Testing
+pytest==7.0.1
+pytest-asyncio==0.18.1
+asgi-lifespan==1.0.1
+httpx==0.22.0
